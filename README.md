@@ -1,2 +1,4 @@
-# ds-assignment-2
-cleaning data set for ds assignmnet has 2 parts
+the orinial souce is https://www.kaggle.com/datasets/shivamb/netflix-shows
+for the ds assignment i have cleaned the datas set 
+date:
+version:
